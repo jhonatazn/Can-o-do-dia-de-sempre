@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canção do Dia de Sempre</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Canção do Dia de Sempre</h1>
+        <h2>Por Mario Quintana</h2>
+    </header>
+    <main>
+        <p>
+            Tão bom viver dia a dia...<br>
+            A vida, assim, jamais cansa...<br>
+            Viver tão só de momentos<br>
+            Como estas nuvens no céu...
+        </p>
+        <p>
+            E só ganhar, toda a vida,<br>
+            Inexperiência... esperança...<br>
+            E a rosa louca dos ventos<br>
+            Presa à copa do chapéu.
+        </p>
+        <p>
+            Nunca dês um nome a um rio:<br>
+            Sempre é outro rio a passar.<br>
+            Nada jamais continua,<br>
+            Tudo vai recomeçar!
+        </p>
+        <p>
+            E sem nenhuma lembrança<br>
+            Das outras vezes perdidas,<br>
+            Atiro a rosa do sonho<br>
+            Nas tuas mãos distraídas...
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2024 - Página criada por Brayan de Queiroz Kiene</p>
+    </footer>
+</body>
+</html>
